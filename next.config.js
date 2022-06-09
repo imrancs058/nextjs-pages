@@ -5,7 +5,8 @@ const nextConfig = {
     path: '',
   },
   reactStrictMode: true,
-  basePath: '/',
+  basePath: '/nextjs-pages',
+  assetPrefix: '/nextjs-pages',
 }
 
 module.exports = nextConfig
